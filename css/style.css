@@ -380,6 +380,11 @@ section.sobre .flex{
     transition: .2s;
 }
 
+.btn-social button i a{
+    text-decoration: none;
+    text-align: none;
+}
+
 /* Estilo do formulário de contato */
 
 section.formulario{
