@@ -386,7 +386,7 @@ section.sobre .flex{
     transition: .2s;
 }
 
-.btn-social button a{
+.btn-social button a i{
     text-decoration: none;
     text-align: none;
     color: #000;
