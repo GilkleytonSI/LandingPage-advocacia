@@ -495,7 +495,7 @@ footer .line-footer a{
         line-height: 45px;
     }
 
-    /* Cabeçalho */
+    /* Estilo do Cabeçalho */
     .menu-desktop, .btn-contato{
         display: none;
     }
@@ -519,6 +519,11 @@ footer .line-footer a{
         display: block;
     }
 
+    /* Header */
+    header .logo img{
+        width: 180px;
+        height: 90px;
+    } 
 
     /* Topo do site */
     section.topo-do-site .flex{
