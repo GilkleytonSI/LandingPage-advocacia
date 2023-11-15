@@ -497,6 +497,10 @@ footer .line-footer a{
         text-align: center;
     }
 
+    .btn-Faleconosco a i{
+        text-decoration: none;
+        text-align: none;
+    }
 
     .btn-abrir-menu{
         display: block;
@@ -538,6 +542,11 @@ footer .line-footer a{
         font-weight: 600;
     }
 
+    .como-ajudar-box button{
+        width: 250px;
+        height: 100px;
+    }
+
      /* Sobre */
      section.sobre{
         padding: 80px 8%;
@@ -555,6 +564,11 @@ footer .line-footer a{
 
     .btn-social{
         text-align: center;
+    }
+
+    .btn-social button i a{
+        text-decoration: none;
+        text-align: none;
     }
 
     .img-sobre img{
