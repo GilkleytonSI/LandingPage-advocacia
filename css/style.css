@@ -45,6 +45,12 @@ body{
     transition: .2s;
 }
 
+.btn-Faleconosco button a{
+    text-decoration: none;
+    text-align: none;
+    color: #000;
+}
+
 h2.titulo{
     color: #fff;
     font-size: 38px;
@@ -497,9 +503,15 @@ footer .line-footer a{
         text-align: center;
     }
 
+    .btn-Faleconosco a{
+        text-decoration: none;
+        text-align: none;
+    }
+
     .btn-Faleconosco a i{
         text-decoration: none;
         text-align: none;
+        color: #000;
     }
 
     .btn-abrir-menu{
