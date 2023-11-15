@@ -465,7 +465,13 @@ footer .logo-footer img{
 
 footer .line-footer p i{
     color: #B69065;
-    font-size: 22px;
+    font-size: 14px;
+}
+
+footer .line-footer p a{
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
 }
 
 footer .line-footer a{
@@ -608,5 +614,13 @@ footer .line-footer a{
     .logo-footer img{
         width: 100%;
         max-width: 300px;
+    }
+
+    footer .line-footer p i{
+        font-size: 15px;
+    }
+    
+    footer .line-footer p a{
+        font-size: 15px;
     }
 }
