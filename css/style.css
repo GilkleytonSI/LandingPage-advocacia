@@ -386,7 +386,7 @@ section.sobre .flex{
     transition: .2s;
 }
 
-.btn-social button a i{
+.btn-social button p a{
     text-decoration: none;
     text-align: none;
     color: #000;
@@ -579,7 +579,7 @@ footer .line-footer a{
         text-align: center;
     }
 
-    .btn-social button a i{ 
+    .btn-social button p a{ 
         text-decoration: none;
         text-align: none;
         color: #000;  
